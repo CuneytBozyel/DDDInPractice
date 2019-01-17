@@ -1,4 +1,3 @@
-C:\Users\Cuneyt\Documents\Visual Studio 2017\Projects\DDDInPractice\DDDInPractice.Logic\obj\Debug\DDDInPractice.Logic.csprojAssemblyReference.cache
 C:\Users\Cuneyt\Documents\Visual Studio 2017\Projects\DDDInPractice\DDDInPractice.Logic\obj\Debug\DDDInPractice.Logic.csproj.CoreCompileInputs.cache
 C:\Users\Cuneyt\Documents\Visual Studio 2017\Projects\DDDInPractice\DDDInPractice.Logic\bin\Debug\DDDInPractice.Logic.dll
 C:\Users\Cuneyt\Documents\Visual Studio 2017\Projects\DDDInPractice\DDDInPractice.Logic\bin\Debug\DDDInPractice.Logic.pdb
